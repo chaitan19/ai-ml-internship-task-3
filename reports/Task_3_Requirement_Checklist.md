@@ -19,4 +19,4 @@
 | README and requirements | PASS | Windows setup, commands, data provenance, outputs, limitations documented. |
 | Execution screenshots | PARTIAL | No genuine application-window screenshots were captured. Visualizations and executed notebook outputs are present; capture actual VS Code/Jupyter screenshots manually if explicitly required for submission. |
 | Separate Task 3 Git repository | PASS | Initialized within the dedicated Task 3 folder only; Task 1/Task 2 untouched. |
-| GitHub commit/push | BLOCKED | New repository HTTPS/SSH URL has not been provided. No remote was guessed and no push occurred. Provide the URL to continue. |
+| GitHub commit/push | PASS | Dedicated repository is `https://github.com/chaitan19/ai-ml-internship-task-3`; Task 3 contents are pushed to `main` with normal non-force pushes. |
