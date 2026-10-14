@@ -1,0 +1,16 @@
+feature,importance
+numeric__MonthlyIncome,0.08743489720554752
+numeric__TotalWorkingYears,0.07223516555308174
+categorical__OverTime_Yes,0.0563710416956011
+numeric__StockOptionLevel,0.05492820145399341
+numeric__Age,0.05362533989074633
+categorical__OverTime_No,0.04751567881088223
+numeric__YearsWithCurrManager,0.04593742819371802
+numeric__YearsAtCompany,0.043640426226832
+numeric__DailyRate,0.03843933950037438
+categorical__CompanyTenureBand_0-1 years,0.03445744114744835
+numeric__YearsInCurrentRole,0.03312172261683183
+numeric__JobLevel,0.02855626743371091
+numeric__NumCompaniesWorked,0.027964390619874994
+numeric__DistanceFromHome,0.025921058982010747
+numeric__HourlyRate,0.023406201037059832
